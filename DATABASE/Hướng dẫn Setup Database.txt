@@ -1,0 +1,2 @@
+1.Mở SQL Sever và connect với local machine.
+2.Mở và Execute lần lượt các file .sql theo thứ tự: Tables -> Users -> Procedures
