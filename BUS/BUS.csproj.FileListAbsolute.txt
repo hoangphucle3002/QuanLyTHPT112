@@ -1,0 +1,13 @@
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\bin\Debug\BUS.dll
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\bin\Debug\BUS.pdb
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\bin\Debug\DAO.dll
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\bin\Debug\DevComponents.DotNetBar2.dll
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\bin\Debug\DTO.dll
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\bin\Debug\DAO.pdb
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\bin\Debug\DTO.pdb
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\bin\Debug\DevComponents.DotNetBar2.xml
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\obj\Debug\BUS.dll
+D:\CNPM\quan-ly-hoc-sinh-main\BUS\obj\Debug\BUS.pdb
